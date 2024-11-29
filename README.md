@@ -1,5 +1,5 @@
 # yigit631
-Hello my name is yiğit i am full stack developer focused on .NET Core...
+Hello my name is yiğit i am full stack developer focused on .NET Core... React...
 
 
 <div align="left">
